@@ -1,0 +1,67 @@
+* {
+    font-family: sans-serif;
+
+}
+
+.main {
+    font-size: 30px;
+    color: rgb(0, 110, 255);
+    position: relative;
+    top: 150px;
+    left: 120px;
+    font-size: 35px;
+
+}
+
+.sec {
+    color: black;
+}
+
+.art {
+    border: 1px ridge;
+    background-color: white;
+    border-radius: 5px;
+    width: 400px;
+    height: 350px;
+    text-align: center;
+    position: relative;
+    left: 800px;
+    bottom: 140px;
+
+}
+
+.art input,
+button {
+    margin-top: 20px;
+    width: 350px;
+    height: 40px;
+    justify-items: center;
+    border-radius: 8px;
+
+
+}
+button{
+    background-color:rgba(13, 99, 211, 0.767);
+    color: white;
+    margin-top: 25px;
+    font-size: large;
+}
+
+.fig button {
+    width: 200px;
+    ;
+    color: white;
+    background-color: rgb(91, 231, 62);
+}
+
+.line {
+    position: relative;
+    left: 830px;
+    bottom: 120px;
+}
+
+footer {
+    text-wrap: auto;
+    justify-content: space-around;
+    word-spacing: 4px;
+}
